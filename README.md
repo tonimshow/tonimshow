@@ -1,5 +1,5 @@
-### Hi there 👋
-
+Hello, my name is Antônio Calegaro and I'm studying a bachelor's degree in economic sciences at UFRGS and working as Financial Advisor on Capse Investimentos.
+I'm currently learning how I can use the tools from GitHub to help people to take better financial decisions.
 <!--
 **tonimshow/tonimshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
